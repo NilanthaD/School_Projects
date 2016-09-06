@@ -1,0 +1,53 @@
+h1{
+	border-bottom: 3px solid #006600;
+}
+body{
+	margin: 20px;
+	background-color:#e4f9a9;
+	
+}
+ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #006600;
+}
+li{
+	float: left;
+	border-right: 2px solid #bbb;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
+.nav{
+	font-size: 20px;
+	font-weight: bold;
+}
+.float{
+	float: left;
+	margin: 20px 20px 10px 20px;
+	border: 3px ridge #000000;
+
+}
+p {
+	text-indent: 30px;
+	margin: 10px 20px 10px 20px;
+	font-family: Arial, sans-serif;
+
+}
+#footer{
+	text-align: center;
+	font-size: small;
+	margin-top: 30px
+}
+.vid{
+	text-align: center;
+}
